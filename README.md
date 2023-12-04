@@ -5,13 +5,11 @@ This is a simple Java program that demonstrates the creation of a basic graphica
 Clone the Repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/simple-java-gui.git
 cd simple-java-gui
 Compile and Run:
 ```
 ```bash
-Copy code
 javac SimpleGUI.java
 java SimpleGUI
 Usage:
