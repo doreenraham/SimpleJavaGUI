@@ -7,13 +7,15 @@ Clone the Repository:
 ```bash
 git clone https://github.com/your-username/simple-java-gui.git
 cd simple-java-gui
-Compile and Run:
 ```
+
+#### Compile and Run:
 ```bash
 javac SimpleGUI.java
 java SimpleGUI
-Usage:
 ```
+
+#### Usage:
 Click the "Click Me" button to see a message.
 #### Dependencies
 This project doesn't have external dependencies. It uses the standard Java Swing library for GUI components.
