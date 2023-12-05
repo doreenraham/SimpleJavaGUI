@@ -1,7 +1,7 @@
 # Simple Java GUI
 This is a simple Java program that demonstrates the creation of a basic graphical user interface (GUI) using the Swing library.
 
-## Instructions
+### Instructions
 #### Clone the Repository:
 ```bash
 git clone https://github.com/your-username/simple-java-gui.git
